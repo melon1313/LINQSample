@@ -70,7 +70,7 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
-    <Content Include="LinqToSQL.aspx" />
+    <Content Include="LinqToSQL\LinqToSQL.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
@@ -82,11 +82,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Sample.dbml</DependentUpon>
     </Compile>
-    <Compile Include="LinqToSQL.aspx.cs">
+    <Compile Include="LinqToSQL\LinqToSQL.aspx.cs">
       <DependentUpon>LinqToSQL.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="LinqToSQL.aspx.designer.cs">
+    <Compile Include="LinqToSQL\LinqToSQL.aspx.designer.cs">
       <DependentUpon>LinqToSQL.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
