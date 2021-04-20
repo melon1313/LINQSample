@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqSelectAndSelectMany", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{01388B0A-D88E-4707-9A52-15410B40B819}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqOrder", "LinqOrder\LinqOrder.csproj", "{D8444FDC-9D46-4BBD-B75C-18BF6C1E28DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{01388B0A-D88E-4707-9A52-15410B40B819}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01388B0A-D88E-4707-9A52-15410B40B819}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01388B0A-D88E-4707-9A52-15410B40B819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8444FDC-9D46-4BBD-B75C-18BF6C1E28DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8444FDC-9D46-4BBD-B75C-18BF6C1E28DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8444FDC-9D46-4BBD-B75C-18BF6C1E28DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8444FDC-9D46-4BBD-B75C-18BF6C1E28DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
