@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqOrder", "LinqOrder\Linq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqTake_Skip_TakeWhile_SkipWhile_Paging", "LinqTake_Skip_TakeWhile_SkipWhile_Paging\LinqTake_Skip_TakeWhile_SkipWhile_Paging.csproj", "{5A6EB5DC-1B5D-4563-8766-B89511D2A377}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqGroupBy", "LinqGroupBy\LinqGroupBy.csproj", "{8B1E5C33-1B87-42EA-A9EC-859F26890BEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5A6EB5DC-1B5D-4563-8766-B89511D2A377}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A6EB5DC-1B5D-4563-8766-B89511D2A377}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A6EB5DC-1B5D-4563-8766-B89511D2A377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1E5C33-1B87-42EA-A9EC-859F26890BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1E5C33-1B87-42EA-A9EC-859F26890BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1E5C33-1B87-42EA-A9EC-859F26890BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1E5C33-1B87-42EA-A9EC-859F26890BEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
